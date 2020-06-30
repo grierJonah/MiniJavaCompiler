@@ -1,0 +1,7 @@
+/codegen/
+/AST/
+/Parser/
+/Scanner/
+/files/
+/runtime/
+/symbolTable/

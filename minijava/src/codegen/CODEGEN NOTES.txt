@@ -1,0 +1,4 @@
+Unfortunately I wasn't able to get to doing all parts of the code generation. In the current build, 
+I am able to produce assembly code for a simple print, and addition of two numbers. While I can reproduce stable
+assembly in my own .S file through emacs, I found it especially challenging to get the visitor classes to output 
+the correct ordering. Additionally, I had some trouble solving how to fix 'overwriting' to a file.  
